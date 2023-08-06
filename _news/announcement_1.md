@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Added my stuff to my website
+Updated my website
